@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/layout-v21/preference_information_material.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/68f80a70f46b45efd4b3e3af58a36f527164d874/output/res/layout-v21/preference_information_material.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/layout-v21/preference_material.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/68f80a70f46b45efd4b3e3af58a36f527164d874/output/res/layout-v21/preference_material.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/layout-v21/preference_category_material.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/68f80a70f46b45efd4b3e3af58a36f527164d874/output/res/layout-v21/preference_category_material.xml"
+    }
+]

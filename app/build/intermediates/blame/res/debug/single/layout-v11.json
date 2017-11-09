@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/layout-v11/preference.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/b89f9c792a09e89b6802e5ff195a4851da858079/output/res/layout-v11/preference.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]

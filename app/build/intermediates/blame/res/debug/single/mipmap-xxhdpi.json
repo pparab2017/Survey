@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/boy.png",
+        "source": "/Users/vikrantdabas/Downloads/MySurvey/app/src/main/res/mipmap-xxhdpi/boy.png"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/vikrantdabas/Downloads/MySurvey/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/vikrantdabas/Downloads/MySurvey/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/inclass.png",
+        "source": "/Users/vikrantdabas/Downloads/MySurvey/app/src/main/res/mipmap-xxhdpi/inclass.png"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/girl.png",
+        "source": "/Users/vikrantdabas/Downloads/MySurvey/app/src/main/res/mipmap-xxhdpi/girl.png"
+    }
+]

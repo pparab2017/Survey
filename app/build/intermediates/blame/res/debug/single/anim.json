@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/rsb_slide_out_left.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/8618819a2be983a5c71616a0d998ade303ffb5cf/output/res/anim/rsb_slide_out_left.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/aabe59bd3a3306d571b644b11d3b24cfecd6b5f6/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/aabe59bd3a3306d571b644b11d3b24cfecd6b5f6/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/rsb_slide_in_left.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/8618819a2be983a5c71616a0d998ade303ffb5cf/output/res/anim/rsb_slide_in_left.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/aabe59bd3a3306d571b644b11d3b24cfecd6b5f6/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/aabe59bd3a3306d571b644b11d3b24cfecd6b5f6/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/aabe59bd3a3306d571b644b11d3b24cfecd6b5f6/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/rsb_slide_out_right.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/8618819a2be983a5c71616a0d998ade303ffb5cf/output/res/anim/rsb_slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/aabe59bd3a3306d571b644b11d3b24cfecd6b5f6/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/rsb_slide_in_right.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/8618819a2be983a5c71616a0d998ade303ffb5cf/output/res/anim/rsb_slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/rsb_slide_in_up.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/8618819a2be983a5c71616a0d998ade303ffb5cf/output/res/anim/rsb_slide_in_up.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/rsb_slide_out_down.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/8618819a2be983a5c71616a0d998ade303ffb5cf/output/res/anim/rsb_slide_out_down.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/anim/rsb_interpolator_step_layout.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/8618819a2be983a5c71616a0d998ade303ffb5cf/output/res/anim/rsb_interpolator_step_layout.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/vikrantdabas/.android/build-cache/89a22624df0f8369bc66bf43f7ca3a88ad0fa397/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

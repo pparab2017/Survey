@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/.android/build-cache/c5c52bddca406ff70f51c217a61bf97b7594baf9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c16892909788cafe22ae19ddc422cb28caca1784/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/.android/build-cache/8b6fe9f0359c037f0de483393e10b495f91160b2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6dc5cb105e62ef1526b764e6793f1703f0f20b09">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_118c78419b7e79fa8ef12f4d8d93cc3a3d0234d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/.android/build-cache/b89f9c792a09e89b6802e5ff195a4851da858079/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffdfc8b94e6d46a997ada2edc9a212782d4d321d">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68f6fea17f3936d5b9fe93ae0952982658ffd4aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/.android/build-cache/aabe59bd3a3306d571b644b11d3b24cfecd6b5f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1cdb08ac5fb55db87a96f531771cf3489b5a23e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3737b560eac535ea6b3c2385e8dfa7836d45c232">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_48129cab9eb1a6863282f4cddc243f00b65333e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/.android/build-cache/07086da7507af8efa29a5ce526d3e08d5cc1b572/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="58e0e61977c0a3219af0105a568002fe7eda4563">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71d57b3f9d66af49322e74a58d1b7b3423a6d969/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/.android/build-cache/8618819a2be983a5c71616a0d998ade303ffb5cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="87f24d6d9d22d65c1d93cf4db6ddf99877ae496a">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5cafbf8b4a529f24d0ffc0348d25225ff5c934b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/.android/build-cache/6941f0eecc6e6d89fa8fe8c3d1f79270b52a84e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7853c6b5f5188017e11c970809c8d981d414689">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb41a428c25ec4ef8d83392f2f9b39173156631e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/.android/build-cache/720383b0106295a60af04fb4d9cbc679d84b7ab0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1cc349f3ea5bde4c1e9c8cc6d79fb4fe66e26056/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/.android/build-cache/368ad65269d62829bacca8cd03030e555f5d2e0c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0839bff75d17079d6d8575aeaacb1449b029587f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/.android/build-cache/68f80a70f46b45efd4b3e3af58a36f527164d874/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="be751fb7c6f667b070c556311f374670dd5d16f4">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30f27ed0e29db4a8e2ae41023cad297bde86df44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/.gradle/caches/modules-2/files-2.1/co.touchlab.squeaky/squeaky-core/0.4.0.0/467c3adab7939fc1341f158284b051b07a88afea/squeaky-core-0.4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="467c3adab7939fc1341f158284b051b07a88afea">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10/squeaky-core-0.4.0.0_8de4eb7e8b5df1e3e8bdef9640c38d53702650fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/.android/build-cache/d783e58ed0b99d110d01ff0ee3fe4ddc5412aabb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71963ad1a5e10fbe011c24da87de8bbdbda18b73">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20a93cc3fb192f5f23319aa1c433561af77481af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2c70a97b6b58931c4cfb23b8c67ae4091db27f77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.9.0/1b6c10b5120995a7542c1a31b7828fb8593c8ba/okhttp-3.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="01b6c10b5120995a7542c1a31b7828fb8593c8ba">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.9.0_a78a97281d77c677eb1943973001c35f15797dac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.4_247b8caa04694f7d2be58563b77a10b93dfc3640/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/.android/build-cache/06482b81842d3f20779de2cf372da34c4f5122cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b2bb03fe2eff01523a543e0555a649223bf77467">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c96e86ae8ec5b5a04f5734ec2f4554322091c9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.2.3/f474798fde03291398b1a016118b9809a79550b7/MPAndroidChart-v2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f474798fde03291398b1a016118b9809a79550b7">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10/MPAndroidChart-v2.2.3_21cdf3f479618d72efb4ef8fe3e854b5f1f5ce12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/.android/build-cache/24cc46efc2130a1827eb7e60faae6077cab5a6dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e8ce9849e05bcc3809e6e36c92ef79898f1d00d9">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58f2e0ba9624a678af193cb44d3c4fc28eb45baf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/.gradle/caches/modules-2/files-2.1/co.touchlab.squeaky/squeaky-query/0.4.0.0/c53bea2fcf08f97d90997904383bc99f92e64475/squeaky-query-0.4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c53bea2fcf08f97d90997904383bc99f92e64475">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10/squeaky-query-0.4.0.0_5b52381e872d50e128fdc50d1d297fe2b048c897/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikrantdabas/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.3/5a1aef6a9d56efb473b8be6b66689077e7317c45/rxjava-1.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a1aef6a9d56efb473b8be6b66689077e7317c45">
+        <dex dex="/Users/vikrantdabas/Downloads/MySurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.3_b8da6dea3f918388df86fabe522f10bd205f4855/classes.dex" />
+    </item>
+
+</items>
